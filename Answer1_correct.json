@@ -1,0 +1,39 @@
+{
+  "id": "5b200e98-6130-41eb-bdc4-a02383430d4c",
+  "name": "Answer1_correct",
+  "auto": true,
+  "contexts": [
+    "await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Goed! De volgende vraag: Hoe heet het apparaat waarop een ebook wordt gelezen?\n1)Een lei  2)Een bord  3)Een reader"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "14d0f8ad-001d-43bd-ad88-f74b030a681d",
+  "name": "Answer2_correct",
+  "auto": true,
+  "contexts": [
+    "await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Goed! De volgende vraag: Waar wordt een ebook gekocht?\n1)Online  2)In een kiosk  3)In een winkel"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

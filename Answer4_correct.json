@@ -1,0 +1,39 @@
+{
+  "id": "24be959c-af86-4aef-ab48-4346c7069da7",
+  "name": "Answer4_correct",
+  "auto": true,
+  "contexts": [
+    "await_answer4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer5",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Goed beantwoord. Daarom de volgende en laatste vraag: Zijn ebooks alleen op een reader te lezen?  1)Ja   2)Soms wel, soms  niet   3)Nee, ook op andere apparaten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

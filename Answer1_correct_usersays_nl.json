@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fc5fec00-0cc1-460e-a056-f13aaee035fd",
+    "data": [
+      {
+        "text": "Digitaal boek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a65f9d1a-510b-49e8-8959-ff9c8b81c8d0",
+    "data": [
+      {
+        "text": "Een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " digitaal boek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "803bafa3-6413-42b1-84fe-74e6593bb043",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

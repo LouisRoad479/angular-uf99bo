@@ -1,0 +1,42 @@
+{
+  "id": "f73b4956-0b9b-4479-a796-de1aeb54f34c",
+  "name": "Welkom_instemmend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "await_answer1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Mooi. De vragen zijn voorzien van de getallen 1, 2 en 3. Type het getal waarvan je denkt dat het bij het juiste antwoord hoort in het venster en druk dan op enter.                 \nWat is een ebook?                                                                                                                                                                                \n 1) Een folder  2) Een reisgids  3) Een digitaal boek"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

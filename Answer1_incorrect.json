@@ -1,0 +1,52 @@
+{
+  "id": "86c8bb45-5336-4c98-bb58-3662b41d2abd",
+  "name": "Answer1_incorrect",
+  "auto": true,
+  "contexts": [
+    "await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f704cb03-7517-4db4-8e79-ac5a085b79d7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Sorry, het antwoord is digitaal boek. Toch maar de volgende vraag: Hoe heet het apparaat waarop ebooks gelezen kunnen worden? 1)Een lei  2)Een bord  3)Een reader"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

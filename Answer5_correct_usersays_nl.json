@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ecdd18bf-54f5-48ef-8b3b-cc82cac8ab4b",
+    "data": [
+      {
+        "text": "Ook op ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " tablet of ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " smartphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a294c943-594d-4d63-b21d-50f3164dbb34",
+    "data": [
+      {
+        "text": "Ook op andere apparaten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "391235b8-5b78-4012-97a2-cca30e01ca95",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

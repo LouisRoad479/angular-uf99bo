@@ -1,0 +1,39 @@
+{
+  "id": "d4b90cf0-127f-4893-bdcb-f9014814475c",
+  "name": "Answer3_correct",
+  "auto": true,
+  "contexts": [
+    "await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Goed beantwoord! De volgende vraag: In welk formaat worden ebooks meestal opgemaakt zodat ze te lezen zijn op een tablet of reader?\n1)Lego  2)Epub  3)Pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a8d1cccc-3fb7-4f59-9526-ee97196e35ac",
+    "data": [
+      {
+        "text": "Dat kan alleen online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86a2b4b1-9a3f-4994-8457-884130115983",
+    "data": [
+      {
+        "text": "Dat gebeurt online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a80c3a8-800f-4b15-afce-2caf9f45eef4",
+    "data": [
+      {
+        "text": "Dat is online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8e4f4a8-7732-48e8-bf67-5c86adaef6e5",
+    "data": [
+      {
+        "text": "Online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a1d29e2-54d9-4c05-bb8f-3e32ee4834c4",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

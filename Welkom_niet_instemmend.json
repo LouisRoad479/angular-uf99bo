@@ -1,0 +1,44 @@
+{
+  "id": "7405f3c7-3130-4100-84ef-f1760ee8ecef",
+  "name": "Welkom_niet_instemmend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "774a7068-992b-45b3-8cf6-fe37437a47dc",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Jammer. Een ander keertje misschien. Veel plezier dan nog bij het bezoeken van de site van Selexyz-ebooks. Er is vast wel iets anders te vinden dat je interesseert op het gebied van ebooks. Hopelijk tot ziens!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

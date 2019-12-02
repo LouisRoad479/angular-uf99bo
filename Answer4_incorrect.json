@@ -1,0 +1,52 @@
+{
+  "id": "5c87711f-448f-46ce-b465-3e4682e73e5d",
+  "name": "Answer4_incorrect",
+  "auto": true,
+  "contexts": [
+    "await_answer4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer5",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7a89ccba-3a69-4cd5-8ad8-5d5c2f7dfc27",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Dat is fout. Het goede antwoord is \u0027epub\u0027. Tijd voor de laatste vraag: Zijn ebooks alleen op een reader te lezen?  1)Ja   2)Soms wel, soms  niet   3)Nee, ook op andere apparaten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1f1004bc-9da8-4371-84f4-ccdd44dc44db",
+    "data": [
+      {
+        "text": "Vandaag",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " niet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0668d2c7-aae7-47ae-b80f-df534e0c9abf",
+    "data": [
+      {
+        "text": "Morgen",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " misschien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb333848-f83b-4cf7-bf48-4a99e10e9e34",
+    "data": [
+      {
+        "text": "Te druk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec328d2e-ce76-4352-8f1a-ce7a27303656",
+    "data": [
+      {
+        "text": "Vandaag",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " geen zin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6de75fb0-ff36-41ee-bd45-638c4fd2e971",
+    "data": [
+      {
+        "text": "Andere keer misschien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27d547d2-8fd7-417d-a55a-7a3b5adef131",
+    "data": [
+      {
+        "text": "Nee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

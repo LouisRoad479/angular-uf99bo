@@ -1,0 +1,52 @@
+{
+  "id": "148733fe-02bf-47c5-be4c-f98b50e6579e",
+  "name": "Answer3_incorrect",
+  "auto": true,
+  "contexts": [
+    "await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6c430073-777e-4220-b902-3b3f3b11b924",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Sorry, maar het antwoord is \u0027online\u0027.\nToch maar weer de volgende vraag: In welk formaat worden ebooks meestal opgemaakt zodat ze te lezen zijn op een tablet of reader?\n1)Lego 2)Epub 3)Pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

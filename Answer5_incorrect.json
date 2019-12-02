@@ -1,0 +1,46 @@
+{
+  "id": "8cfdfe4d-6624-4a71-89be-1699d0a913ec",
+  "name": "Answer5_incorrect",
+  "auto": true,
+  "contexts": [
+    "await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2fbf105c-1fd2-4d92-978c-851c9008e8ed",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Fout! Het goede antwoord is: Nee, ook op andere apparaten. Dat was de laatste vraag. Bedankt voor het mee doen!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
